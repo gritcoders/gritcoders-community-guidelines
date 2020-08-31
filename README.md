@@ -10,12 +10,11 @@
 - To enhance oneself in becoming coders.
 
 **DESCRIPTION (What do we do?):**
-- We will be presenting a series of workshops, coding sessions, mentoring sessions, personal growth sessions.
-- This community aims to guide young girls in nurturing their career and taking steps towards their goal. 
-- We believe in “If you want to go fast, go alone. If you want to go far, go together”.
-- Let’s utilize this platform to have fun and networking.
+
+"Gritcoders" community as a team initiates a platform to guide girls in order to make the best use of the booming opportunities in IT industry. This community aims to help young girls in nurturing their career and help them on how to move forward towards there goal in a step by step manner. This platform will not only help you in your professional path but also how to discover your true talent, realize your true potential and how to incorporate it in order to achieve your specified goal. These experiences through networks will help you take steps towards your personal growth. 
 
 **How can you get started with the Gritcoders community**
+
 Our community is mainly active on Discord as we want to encourage participation and networking through knowledge sharing, playing games and participating in fun events.
 
 The purpose to build this community is to make students aware at the right time i.e. in their first or second year so that they have enough time to prepare and engage in technical activities thereby choosing suitable path for them.We believe that everyone should learn coding and enhance their skillset by learning web/app development, cloud computing, Machine Learning or Cryptocurrency, etc.
@@ -42,6 +41,7 @@ Everyone in the community are welcome to take initiatives or organise any events
 3) How will your initiative benefit this community?
 
 **SOCIAL MEDIA**
+
 We are present on various social media and the links are:
 - Discord - https://discord.gg/NYQEcwy
 - Instagram Handle - https://www.instagram.com/gritcoders
@@ -51,7 +51,8 @@ We are present on various social media and the links are:
 **NOTE:** We are mainly going to be active on Discord
 
 
-**PLAN:**
+**CURRENT PLAN:**
+
 * An android application will handle all the new announcements, updates, sessions and events taking place. 
 * Sessions about the opportunities
 * Writing a roadmap to get started
