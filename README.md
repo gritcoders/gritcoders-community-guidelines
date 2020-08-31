@@ -40,6 +40,8 @@ Everyone in the community are welcome to take initiatives or organise any events
 2) Why or How did you come up with this initiative?
 3) How will your initiative benefit this community?
 
+Several roles have been given to people in gritcoders community. You can know more by reading **roles** channel on discord. Anyone can ask for role-tags by tagging moderators if you fulfill specified criteria.
+
 **SOCIAL MEDIA**
 
 We are present on various social media and the links are:
