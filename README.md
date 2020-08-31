@@ -15,19 +15,41 @@
 - We believe in “If you want to go fast, go alone. If you want to go far, go together”.
 - Let’s utilize this platform to have fun and networking.
 
-**INITIATIVE:**
+**How can you get started with the Gritcoders community**
+Our community is mainly active on Discord as we want to encourage participation and networking through knowledge sharing, playing games and participating in fun events.
 
-If anyone wants to take initiative in contributing to the community you need to submit a document stating:
-1) About your intiative?
+The purpose to build this community is to make students aware at the right time i.e. in their first or second year so that they have enough time to prepare and engage in technical activities thereby choosing suitable path for them.We believe that everyone should learn coding and enhance their skillset by learning web/app development, cloud computing, Machine Learning or Cryptocurrency, etc.
+
+Therefore, we have 3 coding channels on discord:
+ - Beginner: This is for a person who doesn't know anything in the field of coding. Everyday we'll be sharing some resources so that anyone can keep learning through them consistently. We'll update those resources on this github account as well.
+ - Coding Practice: This is for people who know fundamentals of coding but now need to practice everyday. We'll post 1 or 2 questions link everyday so that everyone can be consistent in practicing and can discuss about that on discord server.
+ - Competitive Programmers: This channel is for competitive programming where people after sufficient practice can discuss and form teams.
+ 
+Apart from Coding, there are some niche-specific channels for discussions:
+- Web/Development
+- App development
+- Cloud computing
+- Machine Learning
+- Cryptocurrency
+
+We have some other channels such as scholarships, open-source-projects, hackathons and job opportunities. These channels are there to make everyone aware of several opportunities (like open source programs, hiring challenges, mentorship opportunities by organisations).
+
+At the end, We also have channels for gamers and party people to encourage networking and team participation.
+
+Everyone in the community are welcome to take initiatives or organise any events. That person just needs to write a message in the initiative channel stating:
+1) What initiative do you want to take?
 2) Why or How did you come up with this initiative?
 3) How will your initiative benefit this community?
 
+**SOCIAL MEDIA**
 We are present on various social media and the links are:
-- Discord - https://discord.gg/ckHufJx
-- Instagram Handle - https://www.instagram.com/gritcoders/
-- LinkedIn group: https://www.linkedin.com/groups/13905002/
+- Discord - https://discord.gg/NYQEcwy
+- Instagram Handle - https://www.instagram.com/gritcoders
+- LinkedIn group: https://www.linkedin.com/groups/13905002
+- Telegram: https://t.me/joinchat/AAAAAFZSqWEARyRTiHIImg
 
-However, We are mainly going to be active on Discord as there you can chitchat, play games and network.
+**NOTE:** We are mainly going to be active on Discord
+
 
 **PLAN:**
 * An android application will handle all the new announcements, updates, sessions and events taking place. 
