@@ -13,7 +13,7 @@
 
 "Gritcoders" community as a team initiates a platform to guide girls in order to make the best use of the booming opportunities in IT industry. This community aims to help young girls in nurturing their career and help them on how to move forward towards there goal in a step by step manner. This platform will not only help you in your professional path but also how to discover your true talent, realize your true potential and how to incorporate it in order to achieve your specified goal. These experiences through networks will help you take steps towards your personal growth. 
 
-**How can you get started with the Gritcoders community**
+**How can you get started with the Gritcoders community?**
 
 Our community is mainly active on Discord as we want to encourage participation and networking through knowledge sharing, playing games and participating in fun events.
 
