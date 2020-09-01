@@ -52,6 +52,7 @@ We are present on various social media and the links are:
 
 **NOTE:** We are mainly going to be active on Discord
 
+**Please fill this form so that we can know more about you: https://forms.gle/HTrYQP7nQZRjKpJW6**
 
 **CURRENT PLAN:**
 
